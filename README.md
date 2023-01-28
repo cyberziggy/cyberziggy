@@ -1,7 +1,7 @@
 <h1>Hi, I'm Elizae! 
 
 <h2>👨‍💻 Cyber Security & Cloud Computing Projects:</h2>
-[LAMP Server](https://github.com/cyberziggy/LampServerLab/blob/main/README.md)
+[LAMP Server](https://github.com/cyberziggy/LampServerLab)
   
 
 
