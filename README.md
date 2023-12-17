@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security & Cloud Computing Projects:</h2>
 
   - [LAMP Server](https://github.com/cyberziggy/LampServerLab)
+  - [Capstone-Project-CloudUploader-CLI](https://github.com/cyberziggy/Capstone-Project-CloudUploader-CLI)
   
 
 <h2>📃 Certifications</h2>
